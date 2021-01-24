@@ -1,4 +1,3 @@
-# CRM_APP
 # Designing Application Deployments in Various Environments
 
 This directory contains the Docker data files used in the demos.
